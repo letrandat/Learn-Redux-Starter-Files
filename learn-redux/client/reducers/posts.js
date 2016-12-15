@@ -4,7 +4,7 @@
 // 2. copy of current state
 
 function posts(state = [], action) {
-	consle.log(state, action)
+	console.log(state, action)
 	return state
 }
 
